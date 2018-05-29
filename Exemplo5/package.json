@@ -1,9 +1,0 @@
-{
-  "name": "typescript-systemjs",
-  "version": "1.0.0",
-  "description": "Tutorial System js",
-  "devDependencies": {
-    "typescript": "*",
-    "systemjs":"*"
-  }
-}
